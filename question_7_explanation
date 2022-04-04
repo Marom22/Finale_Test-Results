@@ -1,0 +1,15 @@
+#Describe the steps to allow access from everywhere on port 8080 to your EC2 server
+
+* Login to AWS
+
+* Create an Instance
+
+* select instance
+
+* go to security tab
+
+* select the security group
+
+* select Inbound role
+
+* select All tcp - > source (anywhereIPv4)
