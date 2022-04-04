@@ -1,0 +1,7 @@
+[servers]
+node1 ansible_host=localhost ansible_port=1022 ansible_user=root
+[Group number one]
+node2 ansible_host=localhost ansible_port=1023 ansible_user=root
+[Group number two]
+node3 ansible_host=localhost ansible_port=1024 ansible_user=root
+[Group number three]
