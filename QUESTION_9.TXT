@@ -1,0 +1,4 @@
+Question_9: Assuming I have a deployment in kubernetes of NGINX containers, what will be the commands to scale it from 1 to 3 pods
+
+
+kubectl scale --replicas=3 NGINX
